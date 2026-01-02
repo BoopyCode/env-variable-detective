@@ -1,0 +1,2 @@
+# Standard library only - no dependencies!
+# Unless you count coffee as a dependency.
